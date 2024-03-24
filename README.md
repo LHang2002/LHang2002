@@ -1,8 +1,8 @@
-### 👋 Hello Everyone. I'm Yihang Lin.
+## 👋 Hello Everyone. I'm Yihang Lin.
 
 ---
-#### 🔭 Thanks for your visiting. I'm currently a senior undergraduate student at Soochow University and will be pursuing a Computer Science M.Phil. degree at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, under the supervision of Prof.Haizhou Li in the Human Language Technology(HLT) Laboratory.
-####  📫 How to reach me: yhlin@stu.suda.edu.cn or 913875152@qq.com, please feel free to contact me.
+### 🔭 Thanks for your visiting. I'm currently a senior undergraduate student at Soochow University and will be pursuing a Computer Science M.Phil. degree at the School of Data Science, The Chinese University of Hong Kong, Shenzhen, under the supervision of Prof.Haizhou Li in the Human Language Technology(HLT) Laboratory.
+###  📫 How to reach me: yhlin@stu.suda.edu.cn or 913875152@qq.com, please feel free to contact me.
 
 <!--
 **LHang2002/LHang2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
